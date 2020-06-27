@@ -2,7 +2,7 @@
 FROM ubuntu:18.04
 
 # LABEL about the custom image
-LABEL maintainer="admin@sysadminjournal.com"
+LABEL maintainer="gary@ea2sa.info"
 LABEL version="0.1"
 LABEL description="This is custom Docker Image for \
 the PHP-FPM and Nginx Services."
